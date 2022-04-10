@@ -82,7 +82,7 @@ API (Open API) which are accesed by our frontend.
 # 4. Use-Case View
 Our overall UC diagram:
 
-![Overall-Use-Case-Diagram](../UseCaseDiagram.svg)
+![Overall-Use-Case-Diagram](../UC/UseCaseDiagram.svg)
 
 # 5. Logical View
 
@@ -91,18 +91,18 @@ The following image shows a UML diagram of our project whose elements are catego
 
 ### Model
 #### Frontend
-![models-angular](modelsAngular.svg)
+![models-angular](architecturalDiagrams/frontend-models.svg)
 #### Backend
-![models-spring](backend-models.svg)
+![models-spring](architecturalDiagrams/backend-models.svg)
 
 ### Controller
 #### Frontend
 Due the controller view being very complex we decided to only show the following frontend controllers:
 
-![controller-angular](controllerAngular.svg)
+![controller-angular](architecturalDiagrams/frontend-controller.svg)
 
 #### Backend
-![controller-spring](backend-controllers.svg)
+![controller-spring](architecturalDiagrams/backend-controllers.svg)
 
 ### View
 #### Frontend
