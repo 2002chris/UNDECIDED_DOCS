@@ -13,10 +13,10 @@ A user is able to rate a product by writing a review and uploading an optional p
 - User is able to tag a friend if he wants to
 
 ### 2.1.1 Activity Diagram
-![UC Activity Diagram](ActivityDiagram-Rate.png)
+![UC Activity Diagram](rate-AD.png)
 
 ### 2.1.2 Mock-up
-![](ADD-POST.png)
+![](rate-mockup.png)
 
 ### 2.1.3 Narrative
 ```gherkin
