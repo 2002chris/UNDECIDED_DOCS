@@ -157,7 +157,7 @@ Generally there are two types of users for UNDECIDED. People all over the world 
 - [3.1.18 verify](#3118-verify)
 
 ### 3.1.1 register
-[use case specification](UC/register.md)
+[use case specification](../UC/register/register-UC.md)
 
 ### 3.1.2 login
 The website will provide the possibility to log in. This will also make the usability easier when a user wants to manage his sessions, post or join a session because they don't have to enter their mail address every time.
@@ -173,7 +173,7 @@ A (business) user can add/delete a profile picture.
 
 ### 3.1.6 edit profile
 A (business) user can edit their profile.   
-[use case specification](UC/editProfileUC.md)
+[use case specification](../UC/editProfile/editProfile-UC.md)
 
 ### 3.1.7 view my ratings
 A user can see a list of their posted ratings.
@@ -186,7 +186,7 @@ A user can see their statistics, e.g. number of friends/posted ratings/...
 
 ### 3.1.10 rate
 A user can post a rating on a drink/meal/restaurant/...  
-[use case specification](UC/rateUC.md)
+[use case specification](../UC/rate/rate-UC.md)
 
 ### 3.1.11 delete rating 
 A user can delete their rating.
