@@ -25,7 +25,7 @@ In other words: A guest becomes a (business) user by creating an account.
 - User clicks on "Sign Up" button or "cancel" button 
 
 ### 2.1.1 Activity Diagram
-![Organization Application Activity Diagram](register-AC.svg)
+![Organization Application Activity Diagram](register-AD.svg)
 
 ### 2.1.2 Mock-up
 (n/a)
