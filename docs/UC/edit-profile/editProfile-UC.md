@@ -17,10 +17,10 @@ A user is able to make changes to his profile attributes, like his name or email
 - User clicks on "save changes" button or "cancel" button 
 
 ### 2.1.1 Activity Diagram
-![Organization Application Activity Diagram](editProfile.svg)
+![Organization Application Activity Diagram](editProfile-AD.svg)
 
 ### 2.1.2 Mock-up
-![](EDIT-PROFILE.png)
+![](editProfile-mockup.png)
 
 ### 2.1.3 Narrative
 ```gherkin
