@@ -28,7 +28,7 @@ In other words: A guest becomes a (business) user by creating an account.
 ![Organization Application Activity Diagram](register-AD.svg)
 
 ### 2.1.2 Mock-up
-(n/a)
+![Register Mockup](register-mockup.png)
 
 ### 2.1.3 Narrative
 (n/a)
