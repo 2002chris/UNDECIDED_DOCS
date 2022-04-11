@@ -114,7 +114,7 @@ Because in Angular controller and view is not strictly seperated it's the same d
 (n/a)
 
 # 7. Deployment View
-(n/a)
+![deploymentView](deploymentView.drawio.svg)
 
 # 8. Implementation View
 (n/a)
