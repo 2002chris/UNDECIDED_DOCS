@@ -390,20 +390,24 @@ n/a
 ## 7.1 Test Evaluation Summaries
 
 Test evaluation frontend:
-[](https://github.com/2002chris/UNDECIDED_DOCS/blob/master/docs/Tests/testEvaluation-Frontend.png)
+
+![](https://github.com/2002chris/UNDECIDED_DOCS/blob/master/docs/Tests/testEvaluation-Frontend.png)
 
 Test evaluation backend:
-[](https://github.com/2002chris/UNDECIDED_DOCS/blob/master/docs/Tests/testEvaluation-Backend.png)
+
+![](https://github.com/2002chris/UNDECIDED_DOCS/blob/master/docs/Tests/testEvaluation-Backend.png)
 
 ## 7.2 Reporting on Test Coverage
 
 For reporting our test coverage we use Jacoco and SonarQube.
 
 Test coverage backend:
-[](https://github.com/2002chris/UNDECIDED_DOCS/blob/master/docs/Tests/testCoverage-Backend.png)
+
+![](https://github.com/2002chris/UNDECIDED_DOCS/blob/master/docs/Tests/testCoverage-Backend.png)
 
 Test coverage frontend:
-[]()
+
+![](https://github.com/2002chris/UNDECIDED_DOCS/blob/master/docs/Tests/testCoverage-Frontend.png)
 
 ## 7.3 Perceived Quality Reports
 
