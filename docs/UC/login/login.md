@@ -19,7 +19,7 @@ A user is able to log into his/her account.
 ### 2.1.3 Narrative
 
 ## 2.2 Alternative Flows
-### No profile attribute changes
+### Wrong login credentials
 
 - User accidentally puts in wrong credentials
 - User clicks on "login" button
