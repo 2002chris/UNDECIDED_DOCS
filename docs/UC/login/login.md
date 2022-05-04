@@ -1,5 +1,5 @@
 # 1 Login
-[Login](../SRS.md#316-login)
+[Login](../../SRS.md#316-login)
 
 ## 1.1 Brief Description
 A user is able to log into his/her account.
