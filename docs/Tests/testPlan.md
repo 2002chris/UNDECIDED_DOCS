@@ -156,7 +156,7 @@ Frontend: Angular
 Backend: Spring Boot 
 - Unit testing
 
-![Testing overview](./testing_overview.png)  
+![Testing overview](https://github.com/2002chris/UNDECIDED_DOCS/blob/master/docs/Tests/testOverview.svg)  
 
 The tests themself will not be tested and will not account into code coverage.
 
