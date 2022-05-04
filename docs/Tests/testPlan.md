@@ -389,11 +389,21 @@ n/a
 
 ## 7.1 Test Evaluation Summaries
 
-n/a
+Test evaluation frontend:
+[](https://github.com/2002chris/UNDECIDED_DOCS/blob/master/docs/Tests/testEvaluation-Frontend.png)
+
+Test evaluation backend:
+[](https://github.com/2002chris/UNDECIDED_DOCS/blob/master/docs/Tests/testEvaluation-Backend.png)
 
 ## 7.2 Reporting on Test Coverage
 
 For reporting our test coverage we use Jacoco and SonarQube.
+
+Test coverage backend:
+[](https://github.com/2002chris/UNDECIDED_DOCS/blob/master/docs/Tests/testCoverage-Backend.png)
+
+Test coverage frontend:
+[]()
 
 ## 7.3 Perceived Quality Reports
 
@@ -402,6 +412,8 @@ The code quality tool is SonarQube.
 ## 7.4 Incident Logs and Change Requests
 
 [Provide a brief outline of both the method and tools used to record, track, and manage test incidents, associated change requests, and their status.]
+
+TBD
 
 ## 7.5 Smoke Test Suite and Supporting Test Scripts
 
@@ -414,7 +426,7 @@ n/a
 n/a
 
 ### 7.6.2     Additional Automated Functional Test Scripts
-[These will be either a collection of the source code files for automated test scripts, or the repository of both source code and compiled executables for test scripts maintained by the test automation product.]
+n/a
 
 ### 7.6.3     Test Guidelines
 n/a
