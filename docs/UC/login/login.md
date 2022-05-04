@@ -11,7 +11,7 @@ A user is able to log into his/her account.
 - User gets logged in to the home page of his/her account
     
 ### 2.1.1 Activity Diagram
-![Organization Application Activity Diagram](login.PNG)
+![Organization Application Activity Diagram](login-AD.png)
 
 ### 2.1.2 Mock-up
 ![](login-mockup.png)
