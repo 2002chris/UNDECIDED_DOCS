@@ -1,5 +1,5 @@
 # 1 Login
-[Login](../../SRS.md#316-login)
+[Login](https://github.com/2002chris/UNDECIDED_DOCS/blob/master/docs/SRS/SRS.md#312-login)
 
 ## 1.1 Brief Description
 A user is able to log into his/her account.
