@@ -1,5 +1,5 @@
 # 1 Logout
-[Login](https://github.com/2002chris/UNDECIDED_DOCS/blob/master/docs/SRS/SRS.md#312-login)
+[Login](https://github.com/2002chris/UNDECIDED_DOCS/blob/master/docs/SRS/SRS.md#314-logout)
 
 ## 1.1 Brief Description
 A user is able to log out from his/her account.
