@@ -13,6 +13,7 @@ A user is able to log out from his/her account.
 ![Organization Application Activity Diagram](logout-AD.png)
 
 ### 2.1.2 Mock-up
+![logout-mockup](logout-mockup.png)
 
 ### 2.1.3 Narrative
 
