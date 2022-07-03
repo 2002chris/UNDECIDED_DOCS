@@ -84,6 +84,7 @@ An admin can use their admin panel to block (business) users and administrate th
 ## 1.4 References
 | Title							                                  | Date	  | Publishing organization   |
 | --------------------------------------------------------------------------------------- | ------------- | ------------------------- |
+| [UNDECIDED Website](https://undecided.ted2.cyou/login)				  | 15.04.2022	  | UNDECIDED Team	      | 
 | [UNDECIDED Blog](https://uundecided.wordpress.com)			  		  | 21.10.2021	  | UNDECIDED Team	      | 
 | [GitHub](https://github.com/paul-schweng/UNDECIDED)					  | 21.10.2021    | UNDECIDED Team            |
 | [Jira](https://diesdasundso.atlassian.net/jira/software/c/projects/NDCDD/boards/4?atlOrigin=eyJpIjoiNjIzYmEwNzk3YzNiNDI5ZjkyZjMzNTI1NTJmOTZkNDciLCJwIjoiaiJ9) | 21.10.2021 | UNDECIDED Team |
@@ -217,7 +218,7 @@ A business user can request a verification for his account, which gives them a b
 We will build the user interface intuitive, so that a new user does not necessarily need an explanation. If questions arise our interface provides a comprehensive FAQ. If the user doesn't know the principle of flashcards and a system to learn with them, the user interface provides a manual how to learn with flashcards as well.
 	
 ## 3.3 Reliability
-tbd
+N\A
 ### 3.3.1 Availability
 ### 3.3.2 Defect Rate
 ### 3.3.3 MTBF, MTTR
@@ -230,7 +231,7 @@ tbd
 Response times are kept low to guarantee a fluent user experience.
 
 ### 3.4.2 Throughput
-tbd
+N\A
 
 ### 3.4.3 Capacity
 Our system should be able to handle hundreds to thousands of requests every minute. We are looking forward to increase the capacity to unlimited as the app grows in popularity.
@@ -244,8 +245,11 @@ The front- and backend are seperated into two different repositories, but the fr
 The code will be written according to naming standards/convetions and as self-explanatory code, so reading and actually understanding what your team mates did will be easier.
 
 CODING STANDARDS <br/>
+[Coding standards](https://uundecided.wordpress.com)
+
 TESTING STRATEGY <br/>
-tbd
+We used this plan as a guide for our test strategy:
+[Test Plan](https://github.com/2002chris/UNDECIDED_DOCS/blob/master/docs/Tests/testPlan.md)
 
 ## 3.6 Design Constraints
 We are focused on building a modern-looking web-application using modern technologies. Of course there are other smaller libraries and frameworks used than the ones that are listed, but they represent just a small fraction of the whole project and aren't worth mentioning. In order to meet the requirements and wished of our team we conducted a survey which shows the [linked result](./word_cloud.png).
@@ -254,25 +258,36 @@ We are focused on building a modern-looking web-application using modern technol
 	
 The user interface will be intuitive and simple so that the user can navigate easily between the different sections. Futhermore it is planned that there will be a FAQ and a help page, where the basic steps for using the webapp will be presented and explained step-by-step. 
 	
-## 3.8 Purchased Components 
-	
+## 3.8 Purchased Components 	
 N\A
 	
 ## 3.9 Interfaces 
-tbd
+N\A
 ### 3.1.9 User Interfaces 
 ### 3.9.2 Hardware Interfaces 
 ### 3.9.3 Software Interfaces 
 ### 3.9.4 Communication Interfaces 
 
 ## 3.10 Licensing Requirements
-tbd
+Copyright [2022] [UNDECIDED]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 
 ## 3.11 Legal, Copyright & Other Notices 
 The logo is licensed to the UNDECIDED Team and is only allowed to use for the application. We do not take responsibilty for any incorrect data or errors in the application.
 
 ## 3.12 Applicable Standards   
-tbd
+N\A
 ---
 [move up](#inhalt)
 
